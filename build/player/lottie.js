@@ -14343,7 +14343,6 @@ function CheckboxEffect(data,elem, container){
 function NoValueEffect(){
     this.p = {};
 }
-function EffectsManager(){}
 function EffectsManager(data,element){
     var effects = data.ef || [];
     this.effectElements = [];
